@@ -1,0 +1,111 @@
+.blog-name{
+    margin: 0;
+    color:aliceblue
+}
+
+.main-header {
+    background-image: url(https://img.freepik.com/free-photo/abstract-grunge-decorative-relief-navy-blue-stucco-wall-texture-wide-angle-rough-colored-background_1258-28311.jpg?w=2000);
+    margin-bottom: 100px;
+    margin-top: 0;
+    color: white
+ }
+ 
+
+* {
+    box-sizing: border-box;
+    color: #333;
+}
+
+
+
+.main-nav{
+    text-align: center;
+    font-size: 1.1em;
+    font-weight: lighter;
+    border-bottom: 1px solid black;
+}
+
+
+
+.nav ul {
+    margin: 0;
+    text-align: left;
+}
+
+.nav li {
+    display: inline;
+}
+
+.nav a {
+    display: inline-block;
+    padding: .5em;
+    color: #777;
+   
+    text-decoration: none;
+}
+
+
+
+body  {
+    margin:0;
+    background-image: url(https://img.freepik.com/free-vector/hand-painted-watercolor-abstract-watercolor-background_23-2149005675.jpg?w=2000);
+    padding: 0;
+}
+
+input, label {
+    display:block;
+}
+
+
+.input-form {
+    box-sizing:border-box;
+    width: 100%;
+    max-width: 30%;
+    padding: 8px 2px;
+}
+
+
+.form container {
+    margin: 0 auto;
+    align-items: center;
+}
+
+
+
+
+textarea {
+    box-sizing: border-box;
+    width: 100%;
+    max-width: 80%;
+    height: 120px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+
+.form-button-submit{
+    background: #26ddeb;
+    border: 1px solid black;
+    color: #fff;
+    font-size: 12px;
+    line-height: 15px;
+    letter-spacing: .05em;
+    text-transform: uppercase;
+    height: auto;
+    margin: 0;
+    text-decoration: none!important;
+    cursor: pointer;
+    padding: 11px 25px;
+    vertical-align: middle;
+    text-align: center;
+    box-sizing: content-box;
+    border-radius: 0;
+    transition: background-color .1s,color .1s,border-color .1s,opacity .1s;
+    display: inline-block;
+}
+
+
+
+.hide {
+    display: none;
+}

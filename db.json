@@ -1,0 +1,46 @@
+{
+  "blog": [
+    {
+      "id": 1,
+      "title": "Osaka",
+      "image": "https://www.japan-guide.com/thumb/XYZeXYZe2157_1680.jpg",
+      "content": "Osaka is only a short shinkansen ride from Tokyo, but has a very different personality to Japan's capital city. Hop off the bullet train into an area of exciting nightlife, delicious food and straight-talking, friendly locals. Along with plenty of shopping and modern attractions, Osaka also has a historical side, the highlight of which is Osaka Castle. The castle is a great place to discover more about Japanese history and to wander the beautiful grounds, especially during cherry blossom season in April when the sakura blooms and the weather is often at its best."
+    },
+    {
+      "id": 2,
+      "title": "Tokyo",
+      "image": "https://media.audleytravel.com/-/media/images/home/north-asia-and-russia/japan/activities/tokyo-gettyimages-1131743616-1000x3000.jpg?q=79&w=1920&h=640",
+      "content": "Tokyo, the capital of Japan, is situated at the head of Tokyo Bay on the Pacific coast of central Honshu. First developed into a city during the Tokugawa period (1603–1867), when the site was known as Edo, Tokyo is the core of the Tokyo-Yokohama Metropolitan Area, commonly called Greater Tokyo. The city is Japan's major cultural centre as well as its main transportation hub."
+    },
+    {
+      "id": 3,
+      "title": "Nara",
+      "image": "https://wanderweib.de/wp-content/uploads/2020/08/Nara_Park-1-von-1.jpg",
+      "content": "If you're unfamiliar with Nara, it isn't a booming metropolis like Tokyo or Osaka. It's traditional in feel, more closely resembling Kyoto with its wealth of historical and cultural attractions. I like to think of it as “Kyoto light”, with deer."
+    },
+    {
+      "id": 4,
+      "title": "Kyoto",
+      "image": "https://images.rove.me/kyoto_w1280.jpg",
+      "content": "Kyoto City attracts millions of local and international visitors each year looking for traditional Japanese culture. Temples and shrines such as Kiyomizudera Temple and Kinkakuji draw lots off attention from visitors, as do the bamboo groves of nearby Arashiyama."
+    },
+    {
+      "id": 5,
+      "title": "Kobe",
+      "image": "https://livingnomads.com/wp-content/uploads/2020/03/03/kobe-japan.jpg",
+      "content": "Kobe's reputation is based on tender beef and Mount Rokko, but there's a lively sake culture and an impressive Chinatown to visit. You'll also find great restaurants and plenty of interest for shoppers, art and history nerds, and lovers of nature."
+    },
+    {
+      "id": 6,
+      "title": "Hokkaido",
+      "image": "https://cdn.getyourguide.com/img/tour/ab2603479e907ab6.jpeg/97.jpg",
+      "content": "Hokkaido is a popular tourist destination that boasts many attractions, from the breathtaking lavender fields of Furano and the world heritage site Shiretoko, to the sumptuous gourmet cuisine of Northern Japan."
+    },
+    {
+      "title": "Okinawa",
+      "image": "https://visitokinawajapan.com/wp-content/uploads/2021/11/di136_kv_okinawa-at-a-glance.jpg",
+      "content": "                Japan's southernmost prefecture, Okinawa is a chain of islands with its own history as an independent kingdom and a distinctly subtropical climate, as well as the birthplace of karate. Explore the ruins and restored castles of the Ryukyu kings, and visit magnificent beaches and coastlines with an amazing array of coral and undersea life. Come for whale watching and dragon boat races, rare flora and fauna, and an island mindset that makes you forget the clock and follow the sun.    ",
+      "id": 7
+    }
+  ]
+}
